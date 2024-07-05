@@ -6,7 +6,7 @@ This project provides a Hello API built with Golang, containerized using Docker 
 
 ## Features
 
-- URL shortening service
+- URL service https://hello-api.koyeb.app/hello
 - REST API using Golang and Gin
 - Docker and Docker Compose for containerization
 - CI/CD pipeline with GitHub Actions
